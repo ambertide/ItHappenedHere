@@ -1,11 +1,14 @@
 body {
     font-family: sans-serif;
     font-weight: lighter;
+    background-color: rgb(51, 56, 55);
 }
 
 h1 {
+    color: black;
+    font-family: 'Merriweather', serif;
     text-align: center;
-    font-weight: lighter;
+    font-weight: 700;
 }
 
 .container {
@@ -16,7 +19,10 @@ h1 {
 }
 
 p, a {
-    color: gray;
+
+    color: white;
+    font-family: 'Merriweather', serif;
+    font-weight: 300;
     line-height: 1.7em;
     font-size: 13pt;
 }
