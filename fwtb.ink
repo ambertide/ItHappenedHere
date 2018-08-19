@@ -71,4 +71,11 @@ As you smoke, you can't help but remember of an old book you once saw, in a coun
 
 You laugh as you throw your cigarette to the ground and crush it, you speak to yourself, "It did happen here, it can happen everywhere..."
 
+
++ [Credits]
+
+Written and Made by: Ege Emir Özkan
+Font: Merriweather - Google Fonts
+Made With Ink
+
 -> END
